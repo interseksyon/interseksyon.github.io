@@ -13,3 +13,7 @@ key: page-about
 My name is **Ysabel Caballes**, and this site is my personal blog. Here I'll be exploring *intersections of time, space, and people*, all from my perspective as a millenial Filipina.
 
 Hope you enjoy!
+
+
+
+**Site icon credits:** Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>
