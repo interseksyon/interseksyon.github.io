@@ -1,22 +1,15 @@
 ---
+title: About this site
 layout: page
 titles:
   en: About
-  zh: 关于
-  zh-Hans: 关于
-  zh-Hant: 關於
 key: page-about
 ---
 
-Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
+![Hello World](/assets/images/eldon-vince-isidro-598694-unsplash.jpg)
 
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
+# Hi there!
 
-## Skills
+My name is **Ysabel Caballes**, and this site is my personal blog. Here I'll be exploring *intersections of time, space, and people* from all over the world, all from my perspective as a millenial Filipina.
 
-- HTML5, CSS3(SASS), JavaScript(ES2017, Node.js), Bash(Zsh)
-- React, React Native, Vue.js
-- gulp, webpack
-- Adobe Photoshop, Sketch
+Hope you enjoy!
