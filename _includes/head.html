@@ -46,3 +46,6 @@
 {%- include snippets/prepend-baseurl.html -%}
 <meta name="msapplication-square70x70logo" content="{{ __return }}">
 <meta name="msapplication-TileColor" content="#eeeeee">
+{%- if jekyll.environment != "development" -%}
+  {%- include analytics-providers/google.html -%}
+{%- endif -%}
