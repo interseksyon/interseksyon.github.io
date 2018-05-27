@@ -6,6 +6,10 @@ tags:
 - testing
 ---
 
+![Octocat](/assets/images/octocat.jpg)
+
+<!--more-->
+
 This is my first post. Testing testing.
 
 **bold**
