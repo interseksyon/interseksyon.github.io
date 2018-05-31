@@ -4,4 +4,4 @@
 
 My name is **Ysabel Caballes**, and Interseksyon is my personal blog. Here I'll be exploring intersections of time, space, and people, all from my perspective as a millenial Filipina.
 
-Hope you enjoy!
+You can visit my blog [here](https://interseksyon.github.io). Hope you enjoy!
