@@ -22,9 +22,9 @@ tags:
 
 *Here’s some snapshots from my life of what that looks like.*
 
-<hr>
+### I wake up, and there are 56 notifications on my phone.
 
-**I wake up, and there are 56 notifications on my phone.** 50 of them are from the FB Messenger group of my mother's side of the family.
+50 of them are from the FB Messenger group of my mother's side of the family.
 
 I don’t like Facebook. I try to use it as little as possible.
 
@@ -34,9 +34,7 @@ I decide to take a peek.
 
 By the time I’m done looking at all the videos, pictures, messages, and links in the thread, it’s been half an hour, and I’m on the brink of getting to work late.
 
-<hr>
-
-**I am late.**
+### I am late.
 
 “I want to delete Facebook,” I say.
 
@@ -48,17 +46,15 @@ By the time I’m done looking at all the videos, pictures, messages, and links 
 
 I understand.
 
-<hr>
-
-**It’s breaktime, and I check my phone.**
+### It’s breaktime, and I check my phone.
 
 Another dozen notifications from Facebook. More cute pictures.
 
 I decide not to look.
 
-<hr>
+### It’s a few hours later.
 
-**It’s a few hours later.** I’m done with all the work I can do for the day, but it’s still too early to clock out because I got in late.
+I’m done with all the work I can do for the day, but it’s still too early to clock out because I got in late.
 
 I’m bored.
 
@@ -70,9 +66,7 @@ I open Messenger. And I did get a message from an old friend. I reply, we chat f
 
 As I’m tucking my phone away, I wonder if anyone would have contacted me if Messenger wasn’t free.
 
-<hr>
-
-**My boss has just told me we need freelancers for one of our projects.**
+### My boss has just told me we need freelancers for one of our projects.
 
 I open Facebook to ask around if anyone’s interested. None of my friends are, but one of them knows a Facebook Group for Filipino freelancers.
 
@@ -80,15 +74,13 @@ I join. I post what I need to get done, and my inbox is flooded with dozens of i
 
 Why use job boards when you have this?
 
-<hr>
-
-**It’s late, and the bosses have gone home.**
+### It’s late, and the bosses have gone home.
 
 Someone hooks up Spotify to the office speakers, and Youtube’s now ok to play. The time until I can get out passes by more quickly.
 
-<hr>
+### It’s Friday, and my high school friends and I are at a mall.
 
-**It’s Friday, and my high school friends and I are at a mall.** We’re eating lunch, and they’re laughing about some meme that’s been circulating on Facebook.
+We’re eating lunch, and they’re laughing about some meme that’s been circulating on Facebook.
 
 I can’t relate.
 
@@ -105,17 +97,13 @@ Am I a bad friend for not knowing? Or is she a bad friend for not telling me dir
 
 I don’t know anymore.
 
-<hr>
-
-**In the middle of chatting with old friends, I look at my phone.**
+### In the middle of chatting with old friends, I look at my phone.
 
 I’ve got a message from my brother. He’s living halfway around the world right now.
 
 I’m so glad I don’t have to sell a kidney every time I want to talk to him. But I wonder how much Facebook is listening in.
 
-<hr>
-
-**We’re looking at shoes.**
+### We’re looking at shoes.
 
 I find a pair I like, and bring it to the counter.
 
@@ -125,9 +113,9 @@ So I do. I break my several months long no posting streak.
 
 The shoes are excellent. I consider it a good deal.
 
-<hr>
+### The mall is closing.
 
-**The mall is closing. My friends and I say our goodbyes.**
+My friends and I say our goodbyes.
 
 My parents are picking me up from the mall. Unlike everyone else I know, they still communicate through text. I send them one to say I’m ready to go home.
 
@@ -141,17 +129,13 @@ I contact my parents over Messenger for free. Twenty minutes later, their car’
 
 I get home safe.
 
-<hr>
-
-**Another notification from a family group.**
+### Another notification from a family group.
 
 This time it’s about the latest criminal modus operandi.
 
 Good to know, I guess. Or is this actually fake, and it’s just going to make me more afraid and suspicious of other people than I need to be?
 
-<hr>
-
-**I’m lying on my bed, getting ready to sleep, and for the hundredth time I’m reevaluating my decision to minimize Facebook in my life.**
+### I’m lying on my bed, getting ready to sleep, and for the hundredth time I’m reevaluating my decision to minimize Facebook in my life.
 
 The way I’m going, I’m missing out on a lot of things. I don't know what memes are current right now, what people think about national news, what’s going on with my friends’ lives. Everything’s on Facebook now. Maybe I’m even missing out on job opportunities by staying out of the mix like this.
 
