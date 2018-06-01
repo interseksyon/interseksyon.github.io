@@ -149,3 +149,5 @@ The first ten posts are full of advertisements, staged beach shots, and people s
 Yep.
 
 I uninstall Facebook from my phone.
+
+Maybe someday I’ll manage to delete my account too.
