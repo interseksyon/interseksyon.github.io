@@ -11,16 +11,16 @@ tags:
 
 ![Connection Lost](/assets/images/postsImgs/ConnectionLost.jpg)
 
-On March 19, 2015, Facebook announced that everyone in the Philippines would now be able to access their site and app for free.
+*On March 19, 2015, Facebook announced that everyone in the Philippines would now be able to access their site and app for free.*
 
 <!--more-->
-Provided, of course, that these people’s SIM cards came from Smart Communications Inc., FB’s local telecommunications partner.
+*Provided, of course, that these people's SIM cards came from FB's local telecommunications partner, Smart.*
 
-More than 3 years later, this Free FB promo has proven so successful that FB is now partnered with all major telecom networks in the country. Depending on your data plan, other apps such as Spotify, Youtube, Snapchat, and Skype can also be used “for free” as well.
+*More than 3 years later, this Free FB promo has proven so successful that the company is now partnered with all major telecom networks in the country. Depending on your data plan, other apps such as Spotify, Youtube, Snapchat, and Skype can also be used "for free" as well.*
 
-My name is Ysabel Caballes. I’m a Filipina, and I’ve lived in Metro Manila, Philippines all my life. Throughout the years, I’ve seen my country transform from a place without any internet, to a place with “free” internet but no net neutrality.
+*My name is Ysabel Caballes. I’m a Filipina, and I’ve lived in Metro Manila, Philippines all my life. Throughout the years, I’ve seen my country transform from a place without any internet, to a place with “free” internet but no net neutrality.*
 
-Here’s some snapshots from my life of what that looks like.
+*Here’s some snapshots from my life of what that looks like.*
 
 <hr>
 
@@ -111,9 +111,7 @@ In the middle of chatting with old friends, I look at my phone.
 
 I’ve got a message from my brother. He’s living halfway around the world right now.
 
-I’m so glad I don’t have to sell a kidney every time I want to talk to him.
-
-But I wonder how much Facebook is listening in.
+I’m so glad I don’t have to sell a kidney every time I want to talk to him. But I wonder how much Facebook is listening in.
 
 <hr>
 
