@@ -24,7 +24,7 @@ Here’s some snapshots from my life of what that looks like.
 
 <hr>
 
-I wake up, and there are 56 notifications on my phone. 50 of them are from FB Messenger, from the chatgroup of my mother’s side of the family.
+I wake up, and there are 56 notifications on my phone. 50 of them are from an FB Messenger group of my mother's side of the family.
 
 I don’t like Facebook. I try to use it as little as possible.
 
