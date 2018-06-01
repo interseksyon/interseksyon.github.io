@@ -34,9 +34,9 @@
   hr {
     border: none;
     &::before {
-      content: '...';
+      content: '=+=';
       font-size: map-get($base, font-size-h3);
-      color: $text-color-l;
+      color: $red;
       display: block;
       letter-spacing: .8em;
       text-align: center;
