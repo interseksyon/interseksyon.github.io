@@ -19,8 +19,6 @@ tags:
 
 *More than 3 years later, this Free FB promo has proven so successful that the company is now partnered with all major telecom networks in the country. Depending on your data plan, other apps such as Spotify, Youtube, Snapchat, and Skype can also be used "for free" as well.*
 
-*My name is Ysabel Caballes. I’m a Filipina, and I’ve lived in Metro Manila, Philippines all my life. Throughout the years, I’ve seen my country transform from a place without any internet, to a place with “free” internet but no net neutrality.*
-
 *Here’s some snapshots from my life of what that looks like.*
 
 ### I wake up, and there are 56 notifications on my phone.
