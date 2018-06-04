@@ -1,5 +1,5 @@
 ---
-title: Here's what it's like to live without net neutrality
+title: Here's what it's like to live with Free Facebook
 layout: post
 key: 20180601
 tags:
@@ -7,6 +7,7 @@ tags:
 - tech
 - facebook
 - philippines
+- social media
 ---
 
 ![Caught](/assets/images/postsImgs/vikas-anand-dev-114751-unsplash-compressed.jpg)
